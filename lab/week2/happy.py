@@ -1,4 +1,5 @@
 # 생일 축하 함수
+# 이우성
 
 def say_happy_birthday(name:str) -> None:
     print("안녕하세요!")

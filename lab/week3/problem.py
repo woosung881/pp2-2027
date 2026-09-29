@@ -1,4 +1,5 @@
 #BMI 계산 함수
+#이우성
 
 def Calculate_BMI(weight: float, height: float) -> float:
     bmi = weight / (height ** 2)
